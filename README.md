@@ -1,1 +1,1 @@
-# Mie-Theory-Fortran-Library
+Fortran 95 Mie Theory Library
